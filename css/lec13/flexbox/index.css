@@ -1,0 +1,25 @@
+*{
+   padding:0px;
+   margin:0px;
+   box-sizing: border-box; 
+}
+
+   .container {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        height:100vh;
+       gap:10px;
+      flex-wrap: wrap;
+
+       
+   }
+ .card{
+    width:100px;
+    height:100px;
+    background-color: rgb(165, 124, 42);
+    border:1px solid black;
+    display:inline-block;
+
+ }

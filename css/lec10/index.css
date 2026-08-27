@@ -1,0 +1,17 @@
+ 
+ #simran{
+   /* font-size:70px;
+   font-weight: 100;
+   line-height:10; */
+   word-spacing:100px;
+ }
+
+  h1{
+    text-decoration:underline wavy;
+    text-shadow:-1px -1px 10px teal;
+    color:rgb(255,0,0);
+  }
+
+   p{
+    text-indent: 100px;
+   }

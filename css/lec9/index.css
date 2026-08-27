@@ -1,0 +1,27 @@
+/* span {
+    color:brown;
+}
+
+ #harshit {
+       color: aqua;
+ }
+
+ #aanchal{
+
+    color:chartreuse
+ }
+
+ *{
+    background-color: darkgreen;
+ }
+    div>p {
+        color:darkorange
+    } */
+     
+    h1::selection{
+      color:brown;
+      background-color: blue;
+    }
+    h1:after {
+      content:"ji";
+    }
