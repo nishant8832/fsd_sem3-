@@ -5,7 +5,7 @@
 // let name= not allowed
 
 var nam="nisahnt"
-var nam="nisanhs
-x
-t"
+// var nam="nisanhs
+// x
+// t"
 console.log(nam)
